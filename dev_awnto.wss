@@ -1,0 +1,128 @@
+<site sitename="New Site" version="3.0"><css/><page id="p39914223" name="index" pageindex="0" pp="1" cp="1"><body bgpreview="" bgspreview="" textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgimagedata="" bgsound="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="hr1" zorder="3" type="9" filename="hr48861609" hrsize="3" width="258" height="28" left="15" top="328" previewfile="" hrcolor="#82B40C" noshade="" usimage="0" src="" previewdata="" fp="1" lp="1"/><Component id="image4" zorder="5" type="3" filename="image48997023" left="45" top="117" width="27" height="27" src="WSB://images\block003.gif" previewfile="WSB://images\block003.gif" originwidth="27" originheight="27" group="1" groupname="gp48450107" thumbname="thumb11236375" resamplename="img11236390" exportfilename="images/block003.gif" fp="1" lp="1"/><Component id="shape1" zorder="1" type="4" filename="rect49024914" left="0" top="379" width="482" height="18" bgcolor="#A8A8A8" previewfile="C:\Users\Rishu\AppData\Local\Temp\Web Page Maker\docDVONO\shapeALCC1.gif" fp="1" exportfilename="images/rect49024914.gif" lp="1"/><Component id="shape7" zorder="8" type="4" filename="rect39417018" left="275" top="346" width="115" height="14" bgcolor="#9CC621" group="0" groupname="" previewfile="C:\Users\Rishu\AppData\Local\Temp\Web Page Maker\docDVONO\shape5Q421.gif" fp="1" exportfilename="images/rect39417018.gif" lp="1"/><Component id="image7" zorder="2" type="3" filename="image39455984" left="88" top="95" width="385" height="16" src="WSB://images\image_line3.gif" previewfile="WSB://images\image_line3.gif" originwidth="607" originheight="16" thumbname="thumb11236328" resamplename="img11236343" exportfilename="images/image_line3.gif" fp="1" lp="1"/><Component id="text2" zorder="4" type="2" filename="text39612019" left="139" top="168" width="136" height="49" text="" group="0" groupname="" bgcolor="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#99CC00" face="Verdana" style="font-size:11px;"&gt;&lt;B&gt;Developers Awnto . &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Verdana" style="font-size:11px;"&gt;One to all . &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Verdana" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#6FA6D2" face="Tahoma" style="font-size:11px;"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Verdana" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Verdana" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#99CC00" face="Verdana" class="ws8"&gt;&lt;B&gt;Developers Awnto . &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Verdana" class="ws8"&gt;One to all . &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Verdana" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#6FA6D2" face="Tahoma" class="ws8"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Verdana" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Verdana" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQosAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFQ29sb3IE/5kAAAAB
+CVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQII
+BVN0eWxlCwtmc1VuZGVybGluZQAFQ29sb3IEb6bSAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgdWZXJkYW5hBFNpemUCCAVDb2xvcgSWlpYAAAEJU3R5bGVOYW1l
+BgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGB1ZlcmRhbmEEU2l6ZQIIBVN0eWxlCwZm
+c0JvbGQABUNvbG9yBJnMAAAAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUG
+CkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25t
+ZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24J
+QWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0
+IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05v
+dFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADcgMSAwIDAg
+MCAwDQpEZXZlbG9wZXJzIEF3bnRvIC4gDQo0IDEgMCAwIDAgMA0KDQo2IDIgMCAwIDAgMA0KT25l
+IHRvIGFsbCAuIA0KDQo1IDEgMCAwIDAgMA0KDQo2IDIgMCAwIDAgMA0KDQoNCjMgMSAwIDAgMCAw
+DQoNCg==
+</rvf></Component><Component zorder="10" global="1" id="g_text1"/><Component id="image11" zorder="6" type="3" filename="image48104190" left="72" top="130" width="37" height="16" src="WSB://images\image_line62.gif" previewfile="WSB://images\image_line62.gif" originwidth="47" originheight="16" group="1" groupname="gp48450107" thumbname="thumb11236421" resamplename="img11236437" exportfilename="images/image_line62.gif" fp="1" lp="1"/><Component id="image12" zorder="7" type="3" filename="image48547277" left="273" top="347" width="201" height="15" src="WSB://images\image_line63.gif" previewfile="WSB://images\image_line63.gif" originwidth="281" originheight="15" thumbname="thumb11236468" resamplename="img11236484" exportfilename="images/image_line63.gif" fp="1" lp="1"/><Component zorder="9" global="1" id="g_shape1"/><Component zorder="11" global="1" id="g_nav1"/><Component id="text3" zorder="0" type="2" filename="text41763632" left="278" top="113" width="199" height="223" text="" bgcolor="#F7F7F7" group="0" groupname="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;Learn &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;Create &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;Publish&amp;nbsp; &lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;Learn &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;Create &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;Publish&amp;nbsp; &lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpMAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFU3R5bGULC2ZzVW5k
+ZXJsaW5lAAVDb2xvcgcGY2xHcmF5AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVO
+YW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFs
+aWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFs
+aWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJv
+dGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFv
+RG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQp1AAAADgEJU3R5
+bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5kYXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50AhgLRmlyc3RJ
+bmRlbnQCAAtGb250LkhlaWdodALwCUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEGYBccQAANCAx
+MSAwIDAgMCAwDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQoz
+IDEgLTEgMSAwIDANCkxlYXJuIA0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDAN
+CkNyZWF0ZSANCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpQdWJsaXNoICAN
+Cg==
+</rvf></Component><Component type="3" id="image2" zorder="12" filename="image37339875" left="295" top="117" width="170" height="139" originwidth="599" originheight="490" src="WSB://images\dev-awnto.png-600x641.png" previewfile="WSB://images\dev-awnto.png-600x641.png" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" alt="" changefilename="0" ratio="0" fp="1" thumbname="thumb11236515" resamplename="img11236531" exportfilename="images/dev-awnto.png-600x641.png" lp="1"/><Component id="g_image1" zorder="13" global="1"/><Component type="5" id="nav1" zorder="14" filename="nav10469656" width="122" height="18" fontname="Tahoma" fontsize="8" fontcolor="16777215" fontstyle="1" activecolor="536870911" navspace="2" navstyle="0" hormargin="0" vermargin="0" navwidth="120" navheight="18" normalimage="WSB://images\navgray01.gif" mouseoverimage="WSB://images\navgreen02.gif" mouseoversound="" navcount="1" navtext0="WhatsApp" navurl0="whatsapp://send?phone=917002675825&amp;text=Hi  %0AI feel good to be part of Awnto %0A %0AMy name is = %0A %0AReason to join = %0A" navtarget0="" navstate0="0" navtarget1="" navtarget2="" navtarget3="" left="82" top="303" preview="C:\Users\Rishu\AppData\Local\Temp\Web Page Maker\docDVONO\Nav1J8EB" navtarget4="" textalign="1" fp="1" exportfilename="images/nav10469656" exportsound="" lp="1"/><Component type="2" id="text1" zorder="15" filename="text10879031" width="203" height="39" html="" left="51" top="260" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#99CC00" style="font-size:19px;"&gt;Join using Whatsapp .&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#99CC00" class="ws14"&gt;Join using Whatsapp .&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrrAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBUNvbG9yBJnMAAAAAC05IDIgMCAwIDIgMCAyDQpy
+dnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9T
+dHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0
+DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpKb2luIHVzaW5nIFdoYXRzYXBwIC4NCg==
+</rvf></Component></body></page><components><Component type="5" id="g_nav1" zorder="21" filename="nav40101082" width="244" height="18" fontname="Tahoma" fontsize="8" fontcolor="16777215" fontstyle="1" activecolor="536870911" navspace="2" navstyle="0" hormargin="0" vermargin="0" navwidth="120" navheight="18" normalimage="WSB://images\navgray01.gif" mouseoverimage="WSB://images\navgreen02.gif" mouseoversound="" navcount="2" navtext0="HOME" navurl0="http://awnto.com" navtarget0="" navstate0="0" navtext1="ABOUT" navurl1="http://awnto.com/about.html" navtarget1="" navstate1="0" navtarget2="" navtarget3="" left="229" top="68" preview="C:\Users\Rishu\AppData\Local\Temp\Web Page Maker\docDVONO\Nav9B9OB" navtarget4="" include="p39914223,p41633145,p41633756" textalign="1" fp="1" exportfilename="images/nav40101082" exportsound="" lp="1"/><Component id="g_text1" zorder="20" type="2" filename="text39928444" left="39" top="20" width="250" height="38" text="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1" include="p39914223,p41633145,p41633756" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;Developers Awnto&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;Developers Awnto&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrwAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVDb2xvcgcHY2xXaGl0ZQAALTkgMiAwIDAgMiAw
+IDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFy
+dnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAg
+MiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkRldmVsb3BlcnMgQXdudG8NCg==
+</rvf></Component><Component id="g_shape1" zorder="19" type="4" filename="rect49347187" left="3" top="0" width="471" height="62" bgcolor="#9ECE38" include="p39914223,p41633145,p41633756" previewfile="C:\Users\Rishu\AppData\Local\Temp\Web Page Maker\docDVONO\shapeSKNGD.gif" fp="1" exportfilename="images/rect49347187.gif" lp="1"/><Component type="3" id="g_image1" zorder="22" filename="image37627656" left="31" top="149" width="95" height="84" originwidth="95" originheight="84" src="WSB://images\her_eyelashes-t2.jpg" previewfile="WSB://images\her_eyelashes-t2.jpg" angle="0" bgcolor="" borderstyle="1" bordercolor="#C0C0C0" borderwidth="1" alt="" changefilename="0" resample="0" ratio="0" include="p39914223,p41633145,p41633756" thumbname="thumb11236562" resamplename="img11236578" exportfilename="images/her_eyelashes-t2.jpg" fp="1" lp="1"/></components></site>
